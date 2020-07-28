@@ -1,0 +1,3 @@
+2016-03-17 13:29:18 u50326833 0048jf-1afAP32zk7-004D3N |< REMOTE=192.243.55.132 SCRIPT=/formmail.php -- /usr/sbin/sendmail -t -i
+2016-03-17 13:29:18 u50326833 0048jf-1afAP32zk7-004D3N <= S=mireille.menegoz@menegoz.com SZ=551 D=0 SID=254447291
+2016-03-17 13:29:18 u50326833 0048jf-1afAP32zk7-004D3N => mireille.menegoz@menegoz.com msmtp.kundenserver.de[172.19.35.7] 250 Message 0MSlXs-1aHGyQ3FPo-00Rcks accepted by mreue006.kundenserver.de

@@ -1,0 +1,726 @@
+DIV.pp_default .pp_top {
+	HEIGHT: 13px
+}
+DIV.pp_default .pp_top .pp_middle {
+	HEIGHT: 13px
+}
+DIV.pp_default .pp_top .pp_left {
+	HEIGHT: 13px
+}
+DIV.pp_default .pp_top .pp_right {
+	HEIGHT: 13px
+}
+DIV.pp_default .pp_bottom {
+	HEIGHT: 13px
+}
+DIV.pp_default .pp_bottom .pp_left {
+	HEIGHT: 13px
+}
+DIV.pp_default .pp_bottom .pp_middle {
+	HEIGHT: 13px
+}
+DIV.pp_default .pp_bottom .pp_right {
+	HEIGHT: 13px
+}
+DIV.pp_default .pp_top .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat -78px -93px
+}
+DIV.pp_default .pp_top .pp_middle {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite_x.png) repeat-x left top
+}
+DIV.pp_default .pp_top .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat -112px -93px
+}
+DIV.pp_default .pp_content .ppt {
+	COLOR: #f8f8f8
+}
+DIV.pp_default .pp_content_container .pp_left {
+	PADDING-LEFT: 13px; BACKGROUND: url(../images/prettyPhoto/default/sprite_y.png) repeat-y -7px 0px
+}
+DIV.pp_default .pp_content_container .pp_right {
+	PADDING-RIGHT: 13px; BACKGROUND: url(../images/prettyPhoto/default/sprite_y.png) repeat-y right top
+}
+DIV.pp_default .pp_content {
+	BACKGROUND-COLOR: #fff
+}
+DIV.pp_default .pp_next:hover {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite_next.png) no-repeat right center; CURSOR: pointer
+}
+DIV.pp_default .pp_previous:hover {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite_prev.png) no-repeat left center; CURSOR: pointer
+}
+DIV.pp_default .pp_expand {
+	WIDTH: 28px; BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat 0px -29px; HEIGHT: 28px; CURSOR: pointer
+}
+DIV.pp_default .pp_expand:hover {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat 0px -56px; CURSOR: pointer
+}
+DIV.pp_default .pp_contract {
+	WIDTH: 28px; BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat 0px -84px; HEIGHT: 28px; CURSOR: pointer
+}
+DIV.pp_default .pp_contract:hover {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat 0px -113px; CURSOR: pointer
+}
+DIV.pp_default .pp_close {
+	WIDTH: 30px; BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat 2px 1px; HEIGHT: 30px; CURSOR: pointer
+}
+DIV.pp_default #pp_full_res .pp_inline {
+	COLOR: #000
+}
+DIV.pp_default .pp_gallery UL LI A {
+	BORDER-BOTTOM: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; BACKGROUND: url(../images/prettyPhoto/default/default_thumb.png) #f8f8f8 center center; BORDER-TOP: #aaa 1px solid; BORDER-RIGHT: #aaa 1px solid
+}
+DIV.pp_default .pp_gallery UL LI A:hover {
+	BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BORDER-RIGHT-COLOR: #fff; BORDER-LEFT-COLOR: #fff
+}
+DIV.pp_default .pp_gallery UL LI.selected A {
+	BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BORDER-RIGHT-COLOR: #fff; BORDER-LEFT-COLOR: #fff
+}
+DIV.pp_default .pp_social {
+	MARGIN-TOP: 7px
+}
+DIV.pp_default .pp_gallery A.pp_arrow_previous {
+	POSITION: static; LEFT: auto
+}
+DIV.pp_default .pp_gallery A.pp_arrow_next {
+	POSITION: static; LEFT: auto
+}
+DIV.pp_default .pp_nav .pp_play {
+	WIDTH: 30px; BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat -51px 1px; HEIGHT: 30px
+}
+DIV.pp_default .pp_nav .pp_pause {
+	WIDTH: 30px; BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat -51px 1px; HEIGHT: 30px
+}
+DIV.pp_default .pp_nav .pp_pause {
+	BACKGROUND-POSITION: -51px -29px
+}
+DIV.pp_default .pp_details {
+	POSITION: relative
+}
+DIV.pp_default A.pp_arrow_previous {
+	MARGIN: 4px 0px 0px; WIDTH: 20px; BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat -31px -3px; HEIGHT: 20px
+}
+DIV.pp_default A.pp_arrow_next {
+	MARGIN: 4px 0px 0px; WIDTH: 20px; BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat -31px -3px; HEIGHT: 20px
+}
+DIV.pp_default A.pp_arrow_next {
+	BACKGROUND-POSITION: -82px -3px; LEFT: 52px
+}
+DIV.pp_default .pp_content_container .pp_details {
+	MARGIN-TOP: 5px
+}
+DIV.pp_default .pp_nav {
+	POSITION: relative; WIDTH: 110px; HEIGHT: 30px; CLEAR: none
+}
+DIV.pp_default .pp_nav .currentTextHolder {
+	POSITION: absolute; PADDING-BOTTOM: 0px; LINE-HEIGHT: 25px; FONT-STYLE: italic; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; FONT-FAMILY: Georgia; COLOR: #999; FONT-SIZE: 11px; TOP: 2px; PADDING-TOP: 0px; LEFT: 75px
+}
+DIV.pp_default .pp_close:hover {
+	opacity: 0.7
+}
+DIV.pp_default .pp_nav .pp_play:hover {
+	opacity: 0.7
+}
+DIV.pp_default .pp_nav .pp_pause:hover {
+	opacity: 0.7
+}
+DIV.pp_default .pp_arrow_next:hover {
+	opacity: 0.7
+}
+DIV.pp_default .pp_arrow_previous:hover {
+	opacity: 0.7
+}
+DIV.pp_default .pp_description {
+	LINE-HEIGHT: 14px; MARGIN: 5px 50px 5px 0px; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+DIV.pp_default .pp_bottom .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat -78px -127px
+}
+DIV.pp_default .pp_bottom .pp_middle {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite_x.png) repeat-x left bottom
+}
+DIV.pp_default .pp_bottom .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/default/sprite.png) no-repeat -112px -127px
+}
+DIV.pp_default .pp_loaderIcon {
+	BACKGROUND: url(../images/prettyPhoto/default/loader.gif) no-repeat center center
+}
+DIV.light_rounded .pp_top .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -88px -53px
+}
+DIV.light_rounded .pp_top .pp_middle {
+	BACKGROUND: #fff
+}
+DIV.light_rounded .pp_top .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -110px -53px
+}
+DIV.light_rounded .pp_content .ppt {
+	COLOR: #000
+}
+DIV.light_rounded .pp_content_container .pp_left {
+	BACKGROUND: #fff
+}
+DIV.light_rounded .pp_content_container .pp_right {
+	BACKGROUND: #fff
+}
+DIV.light_rounded .pp_content {
+	BACKGROUND-COLOR: #fff
+}
+DIV.light_rounded .pp_next:hover {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/btnNext.png) no-repeat right center; CURSOR: pointer
+}
+DIV.light_rounded .pp_previous:hover {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/btnPrevious.png) no-repeat left center; CURSOR: pointer
+}
+DIV.light_rounded .pp_expand {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -31px -26px; CURSOR: pointer
+}
+DIV.light_rounded .pp_expand:hover {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -31px -47px; CURSOR: pointer
+}
+DIV.light_rounded .pp_contract {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat 0px -26px; CURSOR: pointer
+}
+DIV.light_rounded .pp_contract:hover {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat 0px -47px; CURSOR: pointer
+}
+DIV.light_rounded .pp_close {
+	WIDTH: 75px; BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -1px -1px; HEIGHT: 22px; CURSOR: pointer
+}
+DIV.light_rounded .pp_details {
+	POSITION: relative
+}
+DIV.light_rounded .pp_description {
+	MARGIN-RIGHT: 85px
+}
+DIV.light_rounded #pp_full_res .pp_inline {
+	COLOR: #000
+}
+DIV.light_rounded .pp_gallery A.pp_arrow_previous {
+	MARGIN-TOP: 12px !important
+}
+DIV.light_rounded .pp_gallery A.pp_arrow_next {
+	MARGIN-TOP: 12px !important
+}
+DIV.light_rounded .pp_nav .pp_play {
+	WIDTH: 14px; BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -1px -100px; HEIGHT: 15px
+}
+DIV.light_rounded .pp_nav .pp_pause {
+	WIDTH: 14px; BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -24px -100px; HEIGHT: 15px
+}
+DIV.light_rounded .pp_arrow_previous {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat 0px -71px
+}
+DIV.light_rounded .disabled.pp_arrow_previous {
+	BACKGROUND-POSITION: 0px -87px; CURSOR: default
+}
+DIV.light_rounded .pp_arrow_next {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -22px -71px
+}
+DIV.light_rounded .disabled.pp_arrow_next {
+	BACKGROUND-POSITION: -22px -87px; CURSOR: default
+}
+DIV.light_rounded .pp_bottom .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -88px -80px
+}
+DIV.light_rounded .pp_bottom .pp_middle {
+	BACKGROUND: #fff
+}
+DIV.light_rounded .pp_bottom .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/sprite.png) no-repeat -110px -80px
+}
+DIV.light_rounded .pp_loaderIcon {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/loader.gif) no-repeat center center
+}
+DIV.dark_rounded .pp_top .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -88px -53px
+}
+DIV.dark_rounded .pp_top .pp_middle {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/contentPattern.png) left top
+}
+DIV.dark_rounded .pp_top .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -110px -53px
+}
+DIV.dark_rounded .pp_content_container .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/contentPattern.png) repeat-y left top
+}
+DIV.dark_rounded .pp_content_container .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/contentPattern.png) repeat-y right top
+}
+DIV.dark_rounded .pp_content {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/contentPattern.png) left top
+}
+DIV.dark_rounded .pp_next:hover {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/btnNext.png) no-repeat right center; CURSOR: pointer
+}
+DIV.dark_rounded .pp_previous:hover {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/btnPrevious.png) no-repeat left center; CURSOR: pointer
+}
+DIV.dark_rounded .pp_expand {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -31px -26px; CURSOR: pointer
+}
+DIV.dark_rounded .pp_expand:hover {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -31px -47px; CURSOR: pointer
+}
+DIV.dark_rounded .pp_contract {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat 0px -26px; CURSOR: pointer
+}
+DIV.dark_rounded .pp_contract:hover {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat 0px -47px; CURSOR: pointer
+}
+DIV.dark_rounded .pp_close {
+	WIDTH: 75px; BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -1px -1px; HEIGHT: 22px; CURSOR: pointer
+}
+DIV.dark_rounded .pp_details {
+	POSITION: relative
+}
+DIV.dark_rounded .pp_description {
+	MARGIN-RIGHT: 85px
+}
+DIV.dark_rounded .currentTextHolder {
+	COLOR: #c4c4c4
+}
+DIV.dark_rounded .pp_description {
+	COLOR: #fff
+}
+DIV.dark_rounded #pp_full_res .pp_inline {
+	COLOR: #fff
+}
+DIV.dark_rounded .pp_gallery A.pp_arrow_previous {
+	MARGIN-TOP: 12px !important
+}
+DIV.dark_rounded .pp_gallery A.pp_arrow_next {
+	MARGIN-TOP: 12px !important
+}
+DIV.dark_rounded .pp_nav .pp_play {
+	WIDTH: 14px; BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -1px -100px; HEIGHT: 15px
+}
+DIV.dark_rounded .pp_nav .pp_pause {
+	WIDTH: 14px; BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -24px -100px; HEIGHT: 15px
+}
+DIV.dark_rounded .pp_arrow_previous {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat 0px -71px
+}
+DIV.dark_rounded .disabled.pp_arrow_previous {
+	BACKGROUND-POSITION: 0px -87px; CURSOR: default
+}
+DIV.dark_rounded .pp_arrow_next {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -22px -71px
+}
+DIV.dark_rounded .disabled.pp_arrow_next {
+	BACKGROUND-POSITION: -22px -87px; CURSOR: default
+}
+DIV.dark_rounded .pp_bottom .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -88px -80px
+}
+DIV.dark_rounded .pp_bottom .pp_middle {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/contentPattern.png) left top
+}
+DIV.dark_rounded .pp_bottom .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/sprite.png) no-repeat -110px -80px
+}
+DIV.dark_rounded .pp_loaderIcon {
+	BACKGROUND: url(../images/prettyPhoto/dark_rounded/loader.gif) no-repeat center center
+}
+DIV.dark_square .pp_left {
+	BACKGROUND: #000
+}
+DIV.dark_square .pp_middle {
+	BACKGROUND: #000
+}
+DIV.dark_square .pp_right {
+	BACKGROUND: #000
+}
+DIV.dark_square .pp_content {
+	BACKGROUND: #000
+}
+DIV.dark_square .currentTextHolder {
+	COLOR: #c4c4c4
+}
+DIV.dark_square .pp_description {
+	COLOR: #fff
+}
+DIV.dark_square .pp_loaderIcon {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/loader.gif) no-repeat center center
+}
+DIV.dark_square .pp_expand {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat -31px -26px; CURSOR: pointer
+}
+DIV.dark_square .pp_expand:hover {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat -31px -47px; CURSOR: pointer
+}
+DIV.dark_square .pp_contract {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat 0px -26px; CURSOR: pointer
+}
+DIV.dark_square .pp_contract:hover {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat 0px -47px; CURSOR: pointer
+}
+DIV.dark_square .pp_close {
+	WIDTH: 75px; BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat -1px -1px; HEIGHT: 22px; CURSOR: pointer
+}
+DIV.dark_square .pp_details {
+	POSITION: relative
+}
+DIV.dark_square .pp_description {
+	MARGIN: 0px 85px 0px 0px
+}
+DIV.dark_square #pp_full_res .pp_inline {
+	COLOR: #fff
+}
+DIV.dark_square .pp_gallery A.pp_arrow_previous {
+	MARGIN-TOP: 12px !important
+}
+DIV.dark_square .pp_gallery A.pp_arrow_next {
+	MARGIN-TOP: 12px !important
+}
+DIV.dark_square .pp_nav {
+	CLEAR: none
+}
+DIV.dark_square .pp_nav .pp_play {
+	WIDTH: 14px; BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat -1px -100px; HEIGHT: 15px
+}
+DIV.dark_square .pp_nav .pp_pause {
+	WIDTH: 14px; BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat -24px -100px; HEIGHT: 15px
+}
+DIV.dark_square .pp_arrow_previous {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat 0px -71px
+}
+DIV.dark_square .disabled.pp_arrow_previous {
+	BACKGROUND-POSITION: 0px -87px; CURSOR: default
+}
+DIV.dark_square .pp_arrow_next {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/sprite.png) no-repeat -22px -71px
+}
+DIV.dark_square .disabled.pp_arrow_next {
+	BACKGROUND-POSITION: -22px -87px; CURSOR: default
+}
+DIV.dark_square .pp_next:hover {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/btnNext.png) no-repeat right center; CURSOR: pointer
+}
+DIV.dark_square .pp_previous:hover {
+	BACKGROUND: url(../images/prettyPhoto/dark_square/btnPrevious.png) no-repeat left center; CURSOR: pointer
+}
+DIV.light_square .pp_left {
+	BACKGROUND: #fff
+}
+DIV.light_square .pp_middle {
+	BACKGROUND: #fff
+}
+DIV.light_square .pp_right {
+	BACKGROUND: #fff
+}
+DIV.light_square .pp_content {
+	BACKGROUND: #fff
+}
+DIV.light_square .pp_content .ppt {
+	COLOR: #000
+}
+DIV.light_square .pp_expand {
+	BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat -31px -26px; CURSOR: pointer
+}
+DIV.light_square .pp_expand:hover {
+	BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat -31px -47px; CURSOR: pointer
+}
+DIV.light_square .pp_contract {
+	BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat 0px -26px; CURSOR: pointer
+}
+DIV.light_square .pp_contract:hover {
+	BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat 0px -47px; CURSOR: pointer
+}
+DIV.light_square .pp_close {
+	WIDTH: 75px; BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat -1px -1px; HEIGHT: 22px; CURSOR: pointer
+}
+DIV.light_square .pp_details {
+	POSITION: relative
+}
+DIV.light_square .pp_description {
+	MARGIN-RIGHT: 85px
+}
+DIV.light_square #pp_full_res .pp_inline {
+	COLOR: #000
+}
+DIV.light_square .pp_gallery A.pp_arrow_previous {
+	MARGIN-TOP: 12px !important
+}
+DIV.light_square .pp_gallery A.pp_arrow_next {
+	MARGIN-TOP: 12px !important
+}
+DIV.light_square .pp_nav .pp_play {
+	WIDTH: 14px; BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat -1px -100px; HEIGHT: 15px
+}
+DIV.light_square .pp_nav .pp_pause {
+	WIDTH: 14px; BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat -24px -100px; HEIGHT: 15px
+}
+DIV.light_square .pp_arrow_previous {
+	BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat 0px -71px
+}
+DIV.light_square .disabled.pp_arrow_previous {
+	BACKGROUND-POSITION: 0px -87px; CURSOR: default
+}
+DIV.light_square .pp_arrow_next {
+	BACKGROUND: url(../images/prettyPhoto/light_square/sprite.png) no-repeat -22px -71px
+}
+DIV.light_square .disabled.pp_arrow_next {
+	BACKGROUND-POSITION: -22px -87px; CURSOR: default
+}
+DIV.light_square .pp_next:hover {
+	BACKGROUND: url(../images/prettyPhoto/light_square/btnNext.png) no-repeat right center; CURSOR: pointer
+}
+DIV.light_square .pp_previous:hover {
+	BACKGROUND: url(../images/prettyPhoto/light_square/btnPrevious.png) no-repeat left center; CURSOR: pointer
+}
+DIV.light_square .pp_loaderIcon {
+	BACKGROUND: url(../images/prettyPhoto/light_rounded/loader.gif) no-repeat center center
+}
+DIV.facebook .pp_top .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -88px -53px
+}
+DIV.facebook .pp_top .pp_middle {
+	BACKGROUND: url(../images/prettyPhoto/facebook/contentPatternTop.png) repeat-x left top
+}
+DIV.facebook .pp_top .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -110px -53px
+}
+DIV.facebook .pp_content .ppt {
+	COLOR: #000
+}
+DIV.facebook .pp_content_container .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/facebook/contentPatternLeft.png) repeat-y left top
+}
+DIV.facebook .pp_content_container .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/facebook/contentPatternRight.png) repeat-y right top
+}
+DIV.facebook .pp_content {
+	BACKGROUND: #fff
+}
+DIV.facebook .pp_expand {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -31px -26px; CURSOR: pointer
+}
+DIV.facebook .pp_expand:hover {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -31px -47px; CURSOR: pointer
+}
+DIV.facebook .pp_contract {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat 0px -26px; CURSOR: pointer
+}
+DIV.facebook .pp_contract:hover {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat 0px -47px; CURSOR: pointer
+}
+DIV.facebook .pp_close {
+	WIDTH: 22px; BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -1px -1px; HEIGHT: 22px; CURSOR: pointer
+}
+DIV.facebook .pp_details {
+	POSITION: relative
+}
+DIV.facebook .pp_description {
+	MARGIN: 0px 37px 0px 0px
+}
+DIV.facebook #pp_full_res .pp_inline {
+	COLOR: #000
+}
+DIV.facebook .pp_loaderIcon {
+	BACKGROUND: url(../images/prettyPhoto/facebook/loader.gif) no-repeat center center
+}
+DIV.facebook .pp_arrow_previous {
+	MARGIN-TOP: 0px; WIDTH: 22px; BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat 0px -71px; HEIGHT: 22px
+}
+DIV.facebook .disabled.pp_arrow_previous {
+	BACKGROUND-POSITION: 0px -96px; CURSOR: default
+}
+DIV.facebook .pp_arrow_next {
+	MARGIN-TOP: 0px; WIDTH: 22px; BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -32px -71px; HEIGHT: 22px
+}
+DIV.facebook .disabled.pp_arrow_next {
+	BACKGROUND-POSITION: -32px -96px; CURSOR: default
+}
+DIV.facebook .pp_nav {
+	MARGIN-TOP: 0px
+}
+DIV.facebook .pp_nav P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 3px; FONT-SIZE: 15px; PADDING-TOP: 0px
+}
+DIV.facebook .pp_nav .pp_play {
+	WIDTH: 22px; BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -1px -123px; HEIGHT: 22px
+}
+DIV.facebook .pp_nav .pp_pause {
+	WIDTH: 22px; BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -32px -123px; HEIGHT: 22px
+}
+DIV.facebook .pp_next:hover {
+	BACKGROUND: url(../images/prettyPhoto/facebook/btnNext.png) no-repeat right center; CURSOR: pointer
+}
+DIV.facebook .pp_previous:hover {
+	BACKGROUND: url(../images/prettyPhoto/facebook/btnPrevious.png) no-repeat left center; CURSOR: pointer
+}
+DIV.facebook .pp_bottom .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -88px -80px
+}
+DIV.facebook .pp_bottom .pp_middle {
+	BACKGROUND: url(../images/prettyPhoto/facebook/contentPatternBottom.png) repeat-x left top
+}
+DIV.facebook .pp_bottom .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -110px -80px
+}
+DIV.pp_pic_holder A:focus {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
+}
+DIV.pp_overlay {
+	Z-INDEX: 9500; POSITION: absolute; WIDTH: 100%; DISPLAY: none; BACKGROUND: #000; TOP: 0px; LEFT: 0px
+}
+DIV.pp_pic_holder {
+	Z-INDEX: 10000; POSITION: absolute; WIDTH: 100px; DISPLAY: none
+}
+.pp_top {
+	POSITION: relative; HEIGHT: 20px
+}
+* HTML .pp_top {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.pp_top .pp_left {
+	POSITION: absolute; WIDTH: 20px; HEIGHT: 20px; LEFT: 0px
+}
+.pp_top .pp_middle {
+	POSITION: absolute; HEIGHT: 20px; RIGHT: 20px; LEFT: 20px
+}
+* HTML .pp_top .pp_middle {
+	POSITION: static; LEFT: 0px
+}
+.pp_top .pp_right {
+	POSITION: absolute; WIDTH: 20px; HEIGHT: 20px; TOP: 0px; RIGHT: 0px; LEFT: auto
+}
+.pp_content {
+	MIN-WIDTH: 40px; HEIGHT: 40px
+}
+* HTML .pp_content {
+	WIDTH: 40px
+}
+.pp_fade {
+	DISPLAY: none
+}
+.pp_content_container {
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 100%
+}
+.pp_content_container .pp_left {
+	PADDING-LEFT: 20px
+}
+.pp_content_container .pp_right {
+	PADDING-RIGHT: 20px
+}
+.pp_content_container .pp_details {
+	MARGIN: 10px 0px 2px; FLOAT: left
+}
+.pp_description {
+	MARGIN: 0px; DISPLAY: none
+}
+.pp_social {
+	MARGIN: 0px; FLOAT: left
+}
+.pp_social .facebook {
+	WIDTH: 55px; FLOAT: left; MARGIN-LEFT: 5px; OVERFLOW: hidden
+}
+.pp_social .twitter {
+	FLOAT: left
+}
+.pp_nav {
+	MARGIN: 3px 10px 0px 0px; FLOAT: left; CLEAR: right
+}
+.pp_nav P {
+	MARGIN: 2px 4px; WHITE-SPACE: nowrap; FLOAT: left
+}
+.pp_nav .pp_play {
+	TEXT-INDENT: -10000px; FLOAT: left; MARGIN-RIGHT: 4px
+}
+.pp_nav .pp_pause {
+	TEXT-INDENT: -10000px; FLOAT: left; MARGIN-RIGHT: 4px
+}
+A.pp_arrow_previous {
+	MARGIN-TOP: 3px; TEXT-INDENT: -10000px; WIDTH: 14px; DISPLAY: block; FLOAT: left; HEIGHT: 15px; OVERFLOW: hidden
+}
+A.pp_arrow_next {
+	MARGIN-TOP: 3px; TEXT-INDENT: -10000px; WIDTH: 14px; DISPLAY: block; FLOAT: left; HEIGHT: 15px; OVERFLOW: hidden
+}
+.pp_hoverContainer {
+	Z-INDEX: 2000; POSITION: absolute; WIDTH: 100%; TOP: 0px
+}
+.pp_gallery {
+	Z-INDEX: 10000; POSITION: absolute; MARGIN-TOP: -50px; DISPLAY: none; LEFT: 50%
+}
+.pp_gallery DIV {
+	POSITION: relative; FLOAT: left; OVERFLOW: hidden
+}
+.pp_gallery UL {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; FLOAT: left; HEIGHT: 35px; PADDING-TOP: 0px
+}
+.pp_gallery UL A {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; DISPLAY: block; FLOAT: left; HEIGHT: 33px; OVERFLOW: hidden; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+.pp_gallery UL A:hover {
+	BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BORDER-RIGHT-COLOR: #fff; BORDER-LEFT-COLOR: #fff
+}
+.pp_gallery LI.selected A {
+	BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BORDER-RIGHT-COLOR: #fff; BORDER-LEFT-COLOR: #fff
+}
+.pp_gallery UL A IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+.pp_gallery LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FLOAT: left; PADDING-TOP: 0px
+}
+.pp_gallery LI.default A {
+	WIDTH: 50px; DISPLAY: block; BACKGROUND: url(../images/prettyPhoto/facebook/default_thumbnail.gif) no-repeat 0px 0px; HEIGHT: 33px
+}
+.pp_gallery LI.default A IMG {
+	DISPLAY: none
+}
+.pp_gallery .pp_arrow_previous {
+	MARGIN-TOP: 7px !important
+}
+.pp_gallery .pp_arrow_next {
+	MARGIN-TOP: 7px !important
+}
+A.pp_next {
+	TEXT-INDENT: -10000px; WIDTH: 49%; DISPLAY: block; BACKGROUND: url(../images/prettyPhoto/light_rounded/btnNext.png) no-repeat 10000px 10000px; FLOAT: right; HEIGHT: 100%
+}
+A.pp_previous {
+	TEXT-INDENT: -10000px; WIDTH: 49%; DISPLAY: block; BACKGROUND: url(../images/prettyPhoto/light_rounded/btnNext.png) no-repeat 10000px 10000px; FLOAT: left; HEIGHT: 100%
+}
+A.pp_expand {
+	Z-INDEX: 20000; POSITION: absolute; TEXT-INDENT: -10000px; WIDTH: 20px; DISPLAY: none; HEIGHT: 20px; TOP: 10px; CURSOR: pointer; RIGHT: 30px
+}
+A.pp_contract {
+	Z-INDEX: 20000; POSITION: absolute; TEXT-INDENT: -10000px; WIDTH: 20px; DISPLAY: none; HEIGHT: 20px; TOP: 10px; CURSOR: pointer; RIGHT: 30px
+}
+A.pp_close {
+	POSITION: absolute; LINE-HEIGHT: 22px; TEXT-INDENT: -10000px; DISPLAY: block; TOP: 0px; RIGHT: 0px
+}
+.pp_bottom {
+	POSITION: relative; HEIGHT: 20px
+}
+* HTML .pp_bottom {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.pp_bottom .pp_left {
+	POSITION: absolute; WIDTH: 20px; HEIGHT: 20px; LEFT: 0px
+}
+.pp_bottom .pp_middle {
+	POSITION: absolute; HEIGHT: 20px; RIGHT: 20px; LEFT: 20px
+}
+* HTML .pp_bottom .pp_middle {
+	POSITION: static; LEFT: 0px
+}
+.pp_bottom .pp_right {
+	POSITION: absolute; WIDTH: 20px; HEIGHT: 20px; TOP: 0px; RIGHT: 0px; LEFT: auto
+}
+.pp_loaderIcon {
+	POSITION: absolute; MARGIN: -12px 0px 0px -12px; WIDTH: 24px; DISPLAY: block; HEIGHT: 24px; TOP: 50%; LEFT: 50%
+}
+#pp_full_res {
+	LINE-HEIGHT: 1 !important
+}
+#pp_full_res .pp_inline {
+	TEXT-ALIGN: left
+}
+#pp_full_res .pp_inline P {
+	MARGIN: 0px 0px 15px
+}
+DIV.ppt {
+	Z-INDEX: 9999; MARGIN: 0px 0px 5px 15px; DISPLAY: none; COLOR: #fff; FONT-SIZE: 17px
+}

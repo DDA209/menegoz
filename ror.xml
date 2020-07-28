@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.menegoz.com/index.php</title>
+  <link>http://www.menegoz.com/index.php</link>
+
+<item>
+     <link>http://www.menegoz.com/index.php</link>
+     <title>
+			Mireille Menegoz Sculptures
+		</title>
+     <description>D&amp;#233;couvrez les oeuvres de Mireille MENEGOZ, artiste sculpteur. Bustes ou corps entiers en terre ou bronze.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.menegoz.com/index.php?go=galleries.php</link>
+     <title>
+			Mireille Menegoz Sculptures
+		</title>
+     <description>D&amp;#233;couvrez les oeuvres de Mireille MENEGOZ, artiste sculpteur. Bustes ou corps entiers en terre ou bronze.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.menegoz.com/index.php?go=bronzes</link>
+     <title>
+			Mireille Menegoz Sculptures
+		</title>
+     <description>D&amp;#233;couvrez les oeuvres de Mireille MENEGOZ, artiste sculpteur. Bustes ou corps entiers en terre ou bronze.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.menegoz.com/index.php?go=terracotta</link>
+     <title>
+			Mireille Menegoz Sculptures
+		</title>
+     <description>D&amp;#233;couvrez les oeuvres de Mireille MENEGOZ, artiste sculpteur. Bustes ou corps entiers en terre ou bronze.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.menegoz.com/index.php?go=contactme.php</link>
+     <title>
+			Mireille Menegoz Sculptures
+		</title>
+     <description>D&amp;#233;couvrez les oeuvres de Mireille MENEGOZ, artiste sculpteur. Bustes ou corps entiers en terre ou bronze.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

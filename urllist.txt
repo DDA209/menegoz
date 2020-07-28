@@ -1,0 +1,5 @@
+http://www.menegoz.com/index.php
+http://www.menegoz.com/index.php?go=galleries.php
+http://www.menegoz.com/index.php?go=bronzes
+http://www.menegoz.com/index.php?go=terracotta
+http://www.menegoz.com/index.php?go=contactme.php
