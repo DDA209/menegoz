@@ -12,9 +12,7 @@
 	<div class="grid_1">
 		<!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style ">
-<a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
-<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
 </div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fa7c4f13fbc5c85"></script>
 
@@ -30,9 +28,9 @@
 </div>
 <!-- HEADER -->
 <div class="container_24">
-	<div class="grid_19">
+	<div class="grid_24">
 	<!-- Signature -->
-		<a href="index.php"><img src="pics/signature.jpg" alt="www.menegoz.com" /></a>
+		<a id="signature" href="index.php"><img src="pics/signature.jpg" alt="www.menegoz.com" /></a>
 	</div>
 	<div class="grid_5">
 	<!-- empty -->

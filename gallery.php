@@ -1,7 +1,7 @@
 <!-- TERRES CUITES -->
 
 <?php
-	$countdir = 40;
+	$countdir = 60;
 	$directory = $_GET["go"];
 	$folder = 'images/'.$directory.'/'.$countdir;
 	echo '<div class="container_24">';
