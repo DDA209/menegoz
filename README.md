@@ -7,4 +7,5 @@ Site Web de Mireille Ménégoz artiste sculptrice
 
 ## Demo
 
-![démo](./assets/demo/demo.gif)
+![visuel](./assets/MireilleMenegoz2012-Terres.jpg)
+![démo](./assets/MireilleMenegoz2012.gif)
